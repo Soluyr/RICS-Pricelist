@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-08-17T17:42:01.7071115Z",
-  "totalActiveMods": 60,
+  "exportedAt": "2026-08-19T12:12:21.3952400Z",
+  "totalActiveMods": 63,
   "mods": [
     {
       "author": "Captolamia",
@@ -135,6 +135,12 @@
       "version": null
     },
     {
+      "author": "Milkwater",
+      "name": "Destiny Exotic Weapons",
+      "steamId": "3496200631",
+      "version": null
+    },
+    {
       "author": "ROO",
       "name": "Don't burn my cpu Shamblers!",
       "steamId": "3473093099",
@@ -204,6 +210,12 @@
       "author": "akaimokou",
       "name": "Limbus NPC Hair",
       "steamId": "3595299886",
+      "version": null
+    },
+    {
+      "author": "Jechto",
+      "name": "LootBoxes - Rimworld Surprise Mechanics",
+      "steamId": "3032305623",
       "version": null
     },
     {
@@ -288,6 +300,12 @@
       "author": "Uuugggg",
       "name": "Replace Stuff - Continued",
       "steamId": "3526354009",
+      "version": null
+    },
+    {
+      "author": "Kronos",
+      "name": "Rimbus Company-LCB Weapons",
+      "steamId": "3207545256",
       "version": null
     },
     {
