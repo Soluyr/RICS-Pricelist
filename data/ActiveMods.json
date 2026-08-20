@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-08-19T12:12:21.3952400Z",
-  "totalActiveMods": 63,
+  "exportedAt": "2026-08-20T10:24:39.7211677Z",
+  "totalActiveMods": 97,
   "mods": [
     {
       "author": "Captolamia",
@@ -51,6 +51,12 @@
       "version": null
     },
     {
+      "author": "Sarg Bjornson,  AFriend",
+      "name": "Alpha Animals",
+      "steamId": "1541721856",
+      "version": null
+    },
+    {
       "author": "Allie,  Erin,  Major Quadrangle,  Matsay,  Sarg",
       "name": "Alpha Genes",
       "steamId": "2891845502",
@@ -60,6 +66,12 @@
       "author": "Lucius",
       "name": "Alpha Genes Facial Animation",
       "steamId": "3751293981",
+      "version": null
+    },
+    {
+      "author": "Sarg Bjornson,  Helixien,  Cassie,  Luizi,  Allie",
+      "name": "Alpha Memes",
+      "steamId": "2661356814",
       "version": null
     },
     {
@@ -75,22 +87,34 @@
       "version": null
     },
     {
-      "author": "X",
-      "name": "Arcane Arms",
-      "steamId": "3365971724",
-      "version": null
-    },
-    {
       "author": "EWyn",
       "name": "Atelier Logic Firearms",
       "steamId": "3544349984",
       "version": "1.0"
     },
     {
+      "author": "Sovereign,  Elseud",
+      "name": "Beliar Xenotype",
+      "steamId": "3237072670",
+      "version": null
+    },
+    {
       "author": "RedMattis",
       "name": "Big and Small - Framework",
       "steamId": "2925432336",
       "version": "3.0.0.0"
+    },
+    {
+      "author": "RedMattis",
+      "name": "Big and Small - Genes & More",
+      "steamId": "2920751126",
+      "version": null
+    },
+    {
+      "author": "RedMattis",
+      "name": "Big and Small - Races",
+      "steamId": "2894397737",
+      "version": null
     },
     {
       "author": "Ludeon Studios",
@@ -135,6 +159,12 @@
       "version": null
     },
     {
+      "author": "SirVan,  RedMattis,  Alite ect",
+      "name": "Dark Ages : Beasts and Monsters",
+      "steamId": "3472275628",
+      "version": null
+    },
+    {
       "author": "Milkwater",
       "name": "Destiny Exotic Weapons",
       "steamId": "3496200631",
@@ -144,6 +174,12 @@
       "author": "ROO",
       "name": "Don't burn my cpu Shamblers!",
       "steamId": "3473093099",
+      "version": null
+    },
+    {
+      "author": "RedMattis",
+      "name": "Drafted Auto-Combat",
+      "steamId": "3546270076",
       "version": null
     },
     {
@@ -171,9 +207,27 @@
       "version": null
     },
     {
+      "author": "Erin",
+      "name": "Erin's Hairstyles 2",
+      "steamId": "2849477421",
+      "version": null
+    },
+    {
+      "author": "Sovereign",
+      "name": "Geist Xenotype",
+      "steamId": null,
+      "version": null
+    },
+    {
       "author": "m00nl1ght",
       "name": "Geological Landforms",
       "steamId": "2773943594",
+      "version": null
+    },
+    {
+      "author": "Taggerung,  Mr Samuel Streamer",
+      "name": "Grignr Happens By",
+      "steamId": "2932093508",
       "version": null
     },
     {
@@ -189,6 +243,12 @@
       "version": "2.4.2.0"
     },
     {
+      "author": "Seanbeag",
+      "name": "HC Creatures Continued",
+      "steamId": "3641332277",
+      "version": null
+    },
+    {
       "author": "UnlimitedHugs",
       "name": "HugsLib",
       "steamId": "818773962",
@@ -199,6 +259,12 @@
       "name": "Ideology",
       "steamId": null,
       "version": null
+    },
+    {
+      "author": "Turnovus",
+      "name": "Integrated Genes",
+      "steamId": "2884115974",
+      "version": "1.8.0"
     },
     {
       "author": "Jaxe",
@@ -213,9 +279,33 @@
       "version": null
     },
     {
+      "author": "Player",
+      "name": "Lobotomy Corp EGO Weapons",
+      "steamId": "3767446802",
+      "version": null
+    },
+    {
+      "author": "Lanilor",
+      "name": "Loot Boxes (Continued)",
+      "steamId": "3258852853",
+      "version": "1.6.0"
+    },
+    {
       "author": "Jechto",
       "name": "LootBoxes - Rimworld Surprise Mechanics",
       "steamId": "3032305623",
+      "version": null
+    },
+    {
+      "author": "m00nl1ght",
+      "name": "Map Preview",
+      "steamId": "2800857642",
+      "version": null
+    },
+    {
+      "author": "Epicguru",
+      "name": "Melee Animation",
+      "steamId": "2944488802",
       "version": null
     },
     {
@@ -231,6 +321,12 @@
       "version": null
     },
     {
+      "author": "Morphium",
+      "name": "Morphs Assorted: Hairs",
+      "steamId": "2718021679",
+      "version": null
+    },
+    {
       "author": "Moth Gaming",
       "name": "Moth's Project Moon Things",
       "steamId": "3384372059",
@@ -243,6 +339,18 @@
       "version": null
     },
     {
+      "author": "Nixte24",
+      "name": "Nixte's Hair Salon",
+      "steamId": "3785962373",
+      "version": null
+    },
+    {
+      "author": "Zaljerem",
+      "name": "Oddities: Weapons Module (Continued)",
+      "steamId": "3267983524",
+      "version": "1.0.3"
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Odyssey",
       "steamId": null,
@@ -252,6 +360,12 @@
       "author": "SeoHyeon",
       "name": "Optimization: Meats - C# Edition",
       "steamId": "2542931556",
+      "version": null
+    },
+    {
+      "author": "D4egon",
+      "name": "Pawn Chronicles: Personal Epics",
+      "steamId": "3726344914",
       "version": null
     },
     {
@@ -267,9 +381,21 @@
       "version": null
     },
     {
+      "author": "Pesky",
+      "name": "Pesky's Petrikin Xenotype",
+      "steamId": "3760366318",
+      "version": null
+    },
+    {
       "author": "Mehni",
       "name": "Pick Up And Haul",
       "steamId": "1279012058",
+      "version": null
+    },
+    {
+      "author": "Velcroboy",
+      "name": "Process Neutroamine from Chemfuel",
+      "steamId": "2292061018",
       "version": null
     },
     {
@@ -315,6 +441,18 @@
       "version": null
     },
     {
+      "author": "Jaxe",
+      "name": "RimHUD",
+      "steamId": "1508850027",
+      "version": null
+    },
+    {
+      "author": "CeroForGrill",
+      "name": "Rimsenal Xenotype Pack - Harana",
+      "steamId": "3228637524",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Royalty",
       "steamId": null,
@@ -327,9 +465,21 @@
       "version": null
     },
     {
+      "author": "Mlie",
+      "name": "Show Me Your Hands",
+      "steamId": "2475965842",
+      "version": "1.6.8"
+    },
+    {
       "author": "Sarg",
       "name": "Smart Speed",
       "steamId": "1504723424",
+      "version": null
+    },
+    {
+      "author": "SunsAGaslight",
+      "name": "Teto Hair Mod",
+      "steamId": "3291665183",
       "version": null
     },
     {
@@ -345,6 +495,24 @@
       "version": null
     },
     {
+      "author": "Sarg Bjornson,  Oskar Potocki",
+      "name": "Vanilla Animals Expanded",
+      "steamId": "2871933948",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha,  SmashPhil,  legodude17",
+      "name": "Vanilla Apparel Expanded — Accessories",
+      "steamId": "2521176396",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Legodude17",
+      "name": "Vanilla Backstories Expanded",
+      "steamId": "2861806869",
+      "version": null
+    },
+    {
       "author": "Oskar Potocki,  Kikohi,  Helixien,  Sarg",
       "name": "Vanilla Events Expanded",
       "steamId": "1938420742",
@@ -357,6 +525,36 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  xrushha,  legodude17,  Allie",
+      "name": "Vanilla Factions Expanded - Empire",
+      "steamId": "2938820380",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha,  Taranchuk,  Sarg Bjornson",
+      "name": "Vanilla Factions Expanded - Insectoids 2",
+      "steamId": "3309003431",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha,  Taranchuk,  Sarg Bjornson",
+      "name": "Vanilla Factions Expanded - Tribals",
+      "steamId": "3079786283",
+      "version": null
+    },
+    {
+      "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van,  Reann Shepard",
+      "name": "Vanilla Psycasts Expanded",
+      "steamId": "2842502659",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  xrushha,  Taranchuk,  Sarg",
+      "name": "Vanilla Races Expanded - Hussar",
+      "steamId": "2893586390",
+      "version": null
+    },
+    {
       "author": "Oracle of Thessia",
       "name": "Vanilla Textures Expanded - [NL] Facial Animation",
       "steamId": "2816938779",
@@ -366,6 +564,12 @@
       "author": "Oskar Potocki,  Taranchuk,  Chowder",
       "name": "Vanilla Traits Expanded",
       "steamId": "2296404655",
+      "version": null
+    },
+    {
+      "author": "Kilo",
+      "name": "W Corp Equipment",
+      "steamId": "3710713557",
       "version": null
     },
     {

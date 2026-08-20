@@ -250,5 +250,17 @@
     "ModSource": "Vanilla Events Expanded",
     "modactive": true,
     "Version": 1
+  },
+  "VPE_Hurricane": {
+    "DefName": "VPE_Hurricane",
+    "Label": "hurricane",
+    "Description": "Extreme wind will cause a slowdown to everyone not under the roof.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Psycasts Expanded",
+    "modactive": true,
+    "Version": 1
   }
 }

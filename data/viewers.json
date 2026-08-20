@@ -1,13 +1,103 @@
 {
-  "total": 1,
+  "total": 11,
   "viewers": [
     {
       "username": "soluyr",
-      "karma": 133.8,
-      "coins": 7819,
+      "karma": 200.0,
+      "coins": 999977509,
       "isBanned": false,
       "platformIds": {
         "twitch": "215534817"
+      }
+    },
+    {
+      "username": "anright",
+      "karma": 182.5956,
+      "coins": 98597,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1518123725"
+      }
+    },
+    {
+      "username": "adorable_centurion",
+      "karma": 183.5856,
+      "coins": 12931,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1530784847"
+      }
+    },
+    {
+      "username": "jolly_skedaddler",
+      "karma": 188.296036,
+      "coins": 46728,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1527322170"
+      }
+    },
+    {
+      "username": "raygreya",
+      "karma": 133.516083,
+      "coins": 9649,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1014608050"
+      }
+    },
+    {
+      "username": "tomboy_enjoyer",
+      "karma": 194.0598,
+      "coins": 68883,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "666632410"
+      }
+    },
+    {
+      "username": "rinagreya",
+      "karma": 134.9734,
+      "coins": 10184,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1530793072"
+      }
+    },
+    {
+      "username": "pyrodoesshi",
+      "karma": 78.56099,
+      "coins": 3384,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1446368225"
+      }
+    },
+    {
+      "username": "thesoluyrno1glazer",
+      "karma": 113.683723,
+      "coins": 7350,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1088479648"
+      }
+    },
+    {
+      "username": "clockfunctions",
+      "karma": 100.0,
+      "coins": 13700,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "870602236"
+      }
+    },
+    {
+      "username": "olamide909099idopp",
+      "karma": 100.0,
+      "coins": 12600,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1530824508"
       }
     }
   ]
