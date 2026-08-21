@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-08-20T10:24:39.7211677Z",
-  "totalActiveMods": 97,
+  "exportedAt": "2026-08-21T06:50:49.3842624Z",
+  "totalActiveMods": 115,
   "mods": [
     {
       "author": "Captolamia",
@@ -18,6 +18,12 @@
       "author": "Nals",
       "name": "[NL] Facial Animation - WIP",
       "steamId": "1635901197",
+      "version": null
+    },
+    {
+      "author": "Oganesson",
+      "name": "[Og] Recruit Guest",
+      "steamId": "3719628649",
       "version": null
     },
     {
@@ -96,6 +102,12 @@
       "author": "Sovereign,  Elseud",
       "name": "Beliar Xenotype",
       "steamId": "3237072670",
+      "version": null
+    },
+    {
+      "author": "RedMattis",
+      "name": "Better Gene Inheritance",
+      "steamId": "3046776238",
       "version": null
     },
     {
@@ -261,6 +273,12 @@
       "version": null
     },
     {
+      "author": "Zaf",
+      "name": "Inject Genes",
+      "steamId": "2918091446",
+      "version": null
+    },
+    {
       "author": "Turnovus",
       "name": "Integrated Genes",
       "steamId": "2884115974",
@@ -270,6 +288,24 @@
       "author": "Jaxe",
       "name": "Interaction Bubbles",
       "steamId": "1516158345",
+      "version": null
+    },
+    {
+      "author": "turkler",
+      "name": "Intimacy - Friends n' Lovers",
+      "steamId": "3498422643",
+      "version": null
+    },
+    {
+      "author": "Linnun",
+      "name": "Keep Converting",
+      "steamId": "3461478214",
+      "version": null
+    },
+    {
+      "author": "Leo39994",
+      "name": "Leo - Events",
+      "steamId": "3730168769",
       "version": null
     },
     {
@@ -309,6 +345,18 @@
       "version": null
     },
     {
+      "author": "Holgast",
+      "name": "Mewgenics Animal Names",
+      "steamId": "3664753026",
+      "version": null
+    },
+    {
+      "author": "ViralReaction",
+      "name": "Missile Girl - Performance Mod",
+      "steamId": "3712928623",
+      "version": null
+    },
+    {
       "author": "Arquebus",
       "name": "More Persona Traits",
       "steamId": "2863308112",
@@ -330,6 +378,12 @@
       "author": "Moth Gaming",
       "name": "Moth's Project Moon Things",
       "steamId": "3384372059",
+      "version": null
+    },
+    {
+      "author": "Andromeda",
+      "name": "Nice Bill Tab",
+      "steamId": "3520130671",
       "version": null
     },
     {
@@ -372,6 +426,12 @@
       "author": "Arkymn",
       "name": "Performance - Slower Pawn Tick Rate",
       "steamId": "3524116050",
+      "version": null
+    },
+    {
+      "author": "Arkymn",
+      "name": "Performance Esmolas",
+      "steamId": "3676343434",
       "version": null
     },
     {
@@ -447,9 +507,27 @@
       "version": null
     },
     {
+      "author": "rooki1",
+      "name": "Rimsenal Xenotype Pack - Askbarn",
+      "steamId": "2918812858",
+      "version": null
+    },
+    {
       "author": "CeroForGrill",
       "name": "Rimsenal Xenotype Pack - Harana",
       "steamId": "3228637524",
+      "version": null
+    },
+    {
+      "author": "CeroForGrill",
+      "name": "Rimsenal Xenotype Pack - Zohar",
+      "steamId": "3504125251",
+      "version": null
+    },
+    {
+      "author": "rooki1",
+      "name": "Rimsenal: Murder diversified",
+      "steamId": "725947920",
       "version": null
     },
     {
@@ -543,10 +621,22 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Landmarks Expanded",
+      "steamId": "3656316229",
+      "version": null
+    },
+    {
       "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van,  Reann Shepard",
       "name": "Vanilla Psycasts Expanded",
       "steamId": "2842502659",
       "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Taranchuk,  Reann Shepard,  Sir Van",
+      "name": "Vanilla Psycasts Expanded - Hemosage",
+      "steamId": "2990596478",
+      "version": "1.0.2"
     },
     {
       "author": "Oskar Potocki,  xrushha,  Taranchuk,  Sarg",
@@ -567,9 +657,27 @@
       "version": null
     },
     {
+      "author": "Sentinel",
+      "name": "VPE - Aeromancer",
+      "steamId": "3548321284",
+      "version": "1.0"
+    },
+    {
+      "author": "Morton",
+      "name": "VPE - Aeromancer (Retexture)",
+      "steamId": "3724996100",
+      "version": null
+    },
+    {
       "author": "Kilo",
       "name": "W Corp Equipment",
       "steamId": "3710713557",
+      "version": null
+    },
+    {
+      "author": "Waggish Pluto",
+      "name": "Xenotype Summary",
+      "steamId": "3710012135",
       "version": null
     },
     {
