@@ -1,10 +1,10 @@
 {
-  "total": 11,
+  "total": 13,
   "viewers": [
     {
       "username": "soluyr",
-      "karma": 179.067642,
-      "coins": 999977509,
+      "karma": 178.586227,
+      "coins": 999961900,
       "isBanned": false,
       "platformIds": {
         "twitch": "215534817"
@@ -12,8 +12,8 @@
     },
     {
       "username": "anright",
-      "karma": 163.484818,
-      "coins": 98597,
+      "karma": 139.282639,
+      "coins": 47880,
       "isBanned": false,
       "platformIds": {
         "twitch": "1518123725"
@@ -21,8 +21,8 @@
     },
     {
       "username": "adorable_centurion",
-      "karma": 164.3712,
-      "coins": 12931,
+      "karma": 200.0,
+      "coins": 15422,
       "isBanned": false,
       "platformIds": {
         "twitch": "1530784847"
@@ -30,8 +30,8 @@
     },
     {
       "username": "jolly_skedaddler",
-      "karma": 168.588638,
-      "coins": 46728,
+      "karma": 132.456421,
+      "coins": 46853,
       "isBanned": false,
       "platformIds": {
         "twitch": "1527322170"
@@ -39,8 +39,8 @@
     },
     {
       "username": "raygreya",
-      "karma": 119.542061,
-      "coins": 9649,
+      "karma": 168.282639,
+      "coins": 128103,
       "isBanned": false,
       "platformIds": {
         "twitch": "1014608050"
@@ -48,8 +48,8 @@
     },
     {
       "username": "tomboy_enjoyer",
-      "karma": 173.749161,
-      "coins": 68883,
+      "karma": 137.889816,
+      "coins": 33601,
       "isBanned": false,
       "platformIds": {
         "twitch": "666632410"
@@ -57,8 +57,8 @@
     },
     {
       "username": "rinagreya",
-      "karma": 120.846848,
-      "coins": 10184,
+      "karma": 100.0,
+      "coins": 21615,
       "isBanned": false,
       "platformIds": {
         "twitch": "1530793072"
@@ -67,7 +67,7 @@
     {
       "username": "pyrodoesshi",
       "karma": 78.56099,
-      "coins": 3384,
+      "coins": 15382,
       "isBanned": false,
       "platformIds": {
         "twitch": "1446368225"
@@ -75,8 +75,8 @@
     },
     {
       "username": "thesoluyrno1glazer",
-      "karma": 101.785378,
-      "coins": 7350,
+      "karma": 100.0,
+      "coins": 22450,
       "isBanned": false,
       "platformIds": {
         "twitch": "1088479648"
@@ -85,7 +85,7 @@
     {
       "username": "clockfunctions",
       "karma": 100.0,
-      "coins": 13700,
+      "coins": 19862,
       "isBanned": false,
       "platformIds": {
         "twitch": "870602236"
@@ -94,10 +94,28 @@
     {
       "username": "olamide909099idopp",
       "karma": 100.0,
-      "coins": 12600,
+      "coins": 27700,
       "isBanned": false,
       "platformIds": {
         "twitch": "1530824508"
+      }
+    },
+    {
+      "username": "redfrench_fry",
+      "karma": 74.8800049,
+      "coins": 32437,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1000575414"
+      }
+    },
+    {
+      "username": "mackz2135",
+      "karma": 100.0,
+      "coins": 11500,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "1289547055"
       }
     }
   ]

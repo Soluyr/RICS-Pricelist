@@ -8200,7 +8200,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Biotech",
-      "BasePrice": 100,
+      "BasePrice": 1000,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -11995,7 +11995,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Alpha Genes",
-      "BasePrice": 100,
+      "BasePrice": 1000,
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
@@ -15055,7 +15055,7 @@
       "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Moth's Project Moon Things",
-      "BasePrice": 905,
+      "BasePrice": 10000,
       "Category": "Weapon",
       "Enabled": true,
       "modactive": true
@@ -26754,7 +26754,7 @@
       "IsUsable": false,
       "IsEquippable": true,
       "IsWearable": false,
-      "Mod": "Alpha Memes",
+      "Mod": "Alpha Animals",
       "BasePrice": 1,
       "Category": "Weapon",
       "Enabled": true,
@@ -26784,7 +26784,7 @@
       "IsUsable": false,
       "IsEquippable": false,
       "IsWearable": false,
-      "Mod": "Alpha Memes",
+      "Mod": "Alpha Animals",
       "BasePrice": 100,
       "Category": "Animals",
       "Enabled": true,
@@ -28060,7 +28060,7 @@
       "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Lobotomy Corp EGO Weapons",
-      "BasePrice": 10000,
+      "BasePrice": 30000,
       "Category": "Weapon",
       "Enabled": true,
       "modactive": true
@@ -28090,7 +28090,7 @@
       "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Lobotomy Corp EGO Weapons",
-      "BasePrice": 10000,
+      "BasePrice": 30000,
       "Category": "Weapon",
       "Enabled": true,
       "modactive": true
@@ -28105,7 +28105,7 @@
       "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Lobotomy Corp EGO Weapons",
-      "BasePrice": 8000,
+      "BasePrice": 10000,
       "Category": "Weapon",
       "Enabled": true,
       "modactive": true
@@ -28135,7 +28135,7 @@
       "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Lobotomy Corp EGO Weapons",
-      "BasePrice": 10000,
+      "BasePrice": 30000,
       "Category": "Weapon",
       "Enabled": true,
       "modactive": true
@@ -28165,7 +28165,7 @@
       "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Lobotomy Corp EGO Weapons",
-      "BasePrice": 4000,
+      "BasePrice": 5000,
       "Category": "Weapon",
       "Enabled": true,
       "modactive": true
@@ -28180,7 +28180,7 @@
       "IsEquippable": true,
       "IsWearable": false,
       "Mod": "Lobotomy Corp EGO Weapons",
-      "BasePrice": 2000,
+      "BasePrice": 5000,
       "Category": "Weapon",
       "Enabled": true,
       "modactive": true
@@ -28273,7 +28273,7 @@
       "BasePrice": 100,
       "Category": "Art",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Petrikin_MechaniteDepetrifier": {
       "DefName": "Petrikin_MechaniteDepetrifier",
@@ -28288,7 +28288,7 @@
       "BasePrice": 1700,
       "Category": "Drugs",
       "Enabled": true,
-      "modactive": true
+      "modactive": false
     },
     "Petrikin_TracerJacket": {
       "DefName": "Petrikin_TracerJacket",

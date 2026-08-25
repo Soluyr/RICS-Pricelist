@@ -1,11 +1,17 @@
 {
-  "exportedAt": "2026-08-21T06:50:49.3842624Z",
-  "totalActiveMods": 115,
+  "exportedAt": "2026-08-25T15:08:28.7328085Z",
+  "totalActiveMods": 119,
   "mods": [
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
+      "version": null
+    },
+    {
+      "author": "Orion",
+      "name": "[CAT] Show Hair With Hats or Hide All Hats",
+      "steamId": "2879080074",
       "version": null
     },
     {
@@ -138,7 +144,7 @@
       "author": "Andreas Pardeike",
       "name": "Camera+",
       "steamId": "867467808",
-      "version": "3.4.4.0"
+      "version": "3.4.5.0"
     },
     {
       "author": "ferny",
@@ -227,7 +233,7 @@
     {
       "author": "Sovereign",
       "name": "Geist Xenotype",
-      "steamId": null,
+      "steamId": "3564732214",
       "version": null
     },
     {
@@ -265,6 +271,12 @@
       "name": "HugsLib",
       "steamId": "818773962",
       "version": null
+    },
+    {
+      "author": "Netrve",
+      "name": "Hunters Use Melee! (Continued)",
+      "steamId": "2900108163",
+      "version": "1.6.0"
     },
     {
       "author": "Ludeon Studios",
@@ -531,6 +543,12 @@
       "version": null
     },
     {
+      "author": "kanboru",
+      "name": "Rimworld Interactive Chat Service - Addon",
+      "steamId": "3760183125",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Royalty",
       "steamId": null,
@@ -690,6 +708,12 @@
       "author": "YAYO,  Soky",
       "name": "Yayo's Animation (Continued)",
       "steamId": "2877292196",
+      "version": null
+    },
+    {
+      "author": "SeoHyeon",
+      "name": "Yet Another Research Tree (YART)",
+      "steamId": "3745434121",
       "version": null
     }
   ]
